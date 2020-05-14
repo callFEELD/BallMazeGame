@@ -9,8 +9,6 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridPaintingState
-    - UnityEditor.Tilemaps.GridPaletteBrushes
-    - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.TileDragAndDropManager
     Unity.Rider.Editor.dll:
@@ -967,4 +965,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Levels/Level 2.unity
   - Assets/Scenes/Levels/Level 1.2.unity
   - Assets/Scenes/Levels/Level 2.2.unity
-  playerPath: C:/workspace/BallMazeGame/New Unity Project/app.apk
+  playerPath: C:/workspace/BallMazeGame_git/app.apk
