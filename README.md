@@ -1,7 +1,10 @@
 # BallMazeGame
 Simple Android 2D Ball Maze Game controller by the accelerometer
 
-## Game
+## Gameplay
+![](https://raw.githubusercontent.com/callFEELD/BallMazeGame/unity/docs/video.gif?token=AGCZAMCQYC562WGB5WF7CF26Y2YWA)
+
+## Images
 Title Screen <br />
 <img src="https://raw.githubusercontent.com/callFEELD/BallMazeGame/unity/docs/img/Title%20Screen.PNG?token=AGCZAMCC6YZ7RTOL4YXHAYK6Y2XDO" width="50%" />
 
