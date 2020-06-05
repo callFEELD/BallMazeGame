@@ -2,17 +2,17 @@
 Simple Android 2D Ball Maze Game controller by the accelerometer
 
 ## Gameplay
-![](https://raw.githubusercontent.com/callFEELD/BallMazeGame/unity/docs/video.gif?token=AGCZAMCQYC562WGB5WF7CF26Y2YWA)
+![](https://raw.githubusercontent.com/callFEELD/BallMazeGame/unity/docs/video.gif?token=AGCZAMHEWJ2ENXROY4JRBU2636EVO)
 
 ## Images
 Title Screen <br />
-<img src="https://raw.githubusercontent.com/callFEELD/BallMazeGame/unity/docs/img/Title%20Screen.PNG?token=AGCZAMCC6YZ7RTOL4YXHAYK6Y2XDO" width="50%" />
+<img src="https://raw.githubusercontent.com/callFEELD/BallMazeGame/unity/docs/img/Title%20Screen.PNG?token=AGCZAMACDFTZGO664DLLGGC636ERQ" width="50%" />
 
 Level Screen <br />
-<img src="https://raw.githubusercontent.com/callFEELD/BallMazeGame/unity/docs/img/Level%20Screen.PNG?token=AGCZAMA44QCD5SPL7XZH4EK6Y2XIQ" width="50%" />
+<img src="https://raw.githubusercontent.com/callFEELD/BallMazeGame/unity/docs/img/Level%20Screen.PNG?token=AGCZAMHQKEOJM7YUT7JZHVS636ESS" width="50%" />
 
 Level 2.2 <br />
-<img src="https://raw.githubusercontent.com/callFEELD/BallMazeGame/unity/docs/img/Level%202.2.PNG?token=AGCZAMAPI3C4CCPPGLGM3Z26Y2XKE" width="50%" />
+<img src="https://raw.githubusercontent.com/callFEELD/BallMazeGame/unity/docs/img/Level%202.2.PNG?token=AGCZAME4BB3W6VMUAFGPWBS636ET2" width="50%" />
 
 ## Request
 Use the accelerometer of the smartphone to implement a 2D ball maze game with the following requirements:
