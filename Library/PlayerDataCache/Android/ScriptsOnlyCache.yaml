@@ -10,8 +10,6 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridPaintingState
-    - UnityEditor.Tilemaps.GridPaletteBrushes
-    - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.TileDragAndDropManager
     Unity.Rider.Editor.dll:
@@ -69,11 +67,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12892}
     - Class: 114
-      Script: {instanceID: 13652}
+      Script: {instanceID: 13028}
     - Class: 114
-      Script: {instanceID: 14264}
+      Script: {instanceID: 13654}
     - Class: 114
-      Script: {instanceID: 16052}
+      Script: {instanceID: 14266}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -136,17 +134,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12892}
     - Class: 114
-      Script: {instanceID: 13050}
+      Script: {instanceID: 13028}
     - Class: 114
-      Script: {instanceID: 13474}
+      Script: {instanceID: 13052}
     - Class: 114
-      Script: {instanceID: 13652}
+      Script: {instanceID: 13476}
     - Class: 114
-      Script: {instanceID: 13912}
+      Script: {instanceID: 13654}
     - Class: 114
-      Script: {instanceID: 14264}
+      Script: {instanceID: 13914}
     - Class: 114
-      Script: {instanceID: 16052}
+      Script: {instanceID: 14266}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -217,17 +215,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12892}
     - Class: 114
-      Script: {instanceID: 13050}
+      Script: {instanceID: 13028}
     - Class: 114
-      Script: {instanceID: 13474}
+      Script: {instanceID: 13052}
     - Class: 114
-      Script: {instanceID: 13652}
+      Script: {instanceID: 13476}
     - Class: 114
-      Script: {instanceID: 13912}
+      Script: {instanceID: 13654}
     - Class: 114
-      Script: {instanceID: 14264}
+      Script: {instanceID: 13914}
     - Class: 114
-      Script: {instanceID: 16052}
+      Script: {instanceID: 14266}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -298,17 +296,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12892}
     - Class: 114
-      Script: {instanceID: 13050}
+      Script: {instanceID: 13028}
     - Class: 114
-      Script: {instanceID: 13474}
+      Script: {instanceID: 13052}
     - Class: 114
-      Script: {instanceID: 13652}
+      Script: {instanceID: 13476}
     - Class: 114
-      Script: {instanceID: 13912}
+      Script: {instanceID: 13654}
     - Class: 114
-      Script: {instanceID: 14264}
+      Script: {instanceID: 13914}
     - Class: 114
-      Script: {instanceID: 16052}
+      Script: {instanceID: 14266}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -379,17 +377,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12892}
     - Class: 114
-      Script: {instanceID: 13050}
+      Script: {instanceID: 13028}
     - Class: 114
-      Script: {instanceID: 13474}
+      Script: {instanceID: 13052}
     - Class: 114
-      Script: {instanceID: 13652}
+      Script: {instanceID: 13476}
     - Class: 114
-      Script: {instanceID: 13912}
+      Script: {instanceID: 13654}
     - Class: 114
-      Script: {instanceID: 14264}
+      Script: {instanceID: 13914}
     - Class: 114
-      Script: {instanceID: 16052}
+      Script: {instanceID: 14266}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -454,11 +452,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12892}
     - Class: 114
-      Script: {instanceID: 13652}
+      Script: {instanceID: 13028}
     - Class: 114
-      Script: {instanceID: 14264}
+      Script: {instanceID: 13654}
     - Class: 114
-      Script: {instanceID: 16052}
+      Script: {instanceID: 14266}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -758,6 +756,12 @@ ScriptsOnlyBuild:
     className: RawImage
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DontSleep
+  - hash:
+      serializedVersion: 2
       Hash: 5ad4aa237d47ac2bab17bacb672edf7a
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -972,12 +976,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: DontSleep
   platform: 13
   scenePathNames:
   - Assets/Scenes/StartScreen.unity
@@ -986,4 +984,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Levels/Level 2.unity
   - Assets/Scenes/Levels/Level 1.2.unity
   - Assets/Scenes/Levels/Level 2.2.unity
-  playerPath: C:/workspace/BallMazeGame_git/app.apk
+  playerPath: C:/workspace/BallMazeGame_git/export
