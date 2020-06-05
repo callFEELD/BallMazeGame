@@ -1,6 +1,14 @@
 # BallMazeGame
 Simple Android 2D Ball Maze Game controller by the accelerometer
 
+## How to open the Unity project
+1. Clone the project.
+2. Open Unity Hub -> Projects and click `add`
+3. Select the cloned folder `BallMazeGame`
+4. Open the project.
+5. When loaded, click on the file `BallMazeGamePackage.unitypackage` and import all Assets.
+6. Switch to Platform `Android` in the File -> Build Settings
+
 ## Gameplay
 ![](https://raw.githubusercontent.com/callFEELD/BallMazeGame/unity/docs/video.gif?token=AGCZAMHEWJ2ENXROY4JRBU2636EVO)
 
