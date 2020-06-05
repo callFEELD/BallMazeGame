@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: __local_aars__:C./workspace/BallMazeGame_git/export/unityLibrary/libs/unity-classes.jar:unspecified@jar">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/unityLibrary/libs/unity-classes.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
